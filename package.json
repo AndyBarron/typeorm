@@ -84,6 +84,6 @@
     "test": "node_modules/.bin/gulp tests"
   },
   "bin": {
-    "typeorm": "./cli.js"
+    "typeorm": "./src/cli.js"
   }
 }
